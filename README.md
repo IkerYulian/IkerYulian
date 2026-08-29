@@ -1,5 +1,5 @@
 <!--
 CONFIG
-FULL_NAME: Iker yulian santiago castro
+FULL_NAME: Iker Yulian Santiago Castro
 GITHUB_USER: IkerYulian
 -->
